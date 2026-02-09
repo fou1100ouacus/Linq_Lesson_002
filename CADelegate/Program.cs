@@ -15,8 +15,10 @@ namespace CADelegate
 
             // Action action = M1;
             // M2(action);
+             
              Action action = M3;
              M(action);
+
             Console.ReadKey();
         }
 
