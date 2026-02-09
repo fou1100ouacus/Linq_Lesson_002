@@ -11,8 +11,8 @@ namespace FunctionalProgramming
             // RunExtensionFunctional01();
             RunExtensionFunctional02();
             Console.ReadKey();
-        }
-
+        } 
+        
         private static void RunExtensionProcedural()
         {
             var q1 = ExtnensionProcedural.GetEmployeesWithFirstNameStartsWith("ma");
