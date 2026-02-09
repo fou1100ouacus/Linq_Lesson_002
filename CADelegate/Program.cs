@@ -9,7 +9,7 @@ namespace CADelegate
         static void Main(string[] args)
         {
             // M2(M1);
-
+ 
             Action action = M1;
             M2(action);
             Console.ReadKey();
@@ -17,7 +17,7 @@ namespace CADelegate
 
         static void M1()
         {
-            Console.WriteLine("M1");
+            Console.WriteLine("aya core ^^ ");
         }
 
         static void M2(Action action)
